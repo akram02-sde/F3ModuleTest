@@ -40,8 +40,8 @@ body{
 
 }
 table{
-    width: 100%;
-    margin-inline: 20px;
+    width: 80%;
+    margin-inline: 200px;
 }
 table img{
     height: 20px;
@@ -49,6 +49,6 @@ table img{
     margin-inline: 20px;
 }
 td{
-  padding: 10px;
-  border-bottom: 2px solid white;
+    padding: 10px;
+    border-bottom: 1px solid white;
 }
